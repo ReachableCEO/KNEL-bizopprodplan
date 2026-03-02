@@ -1,3 +1,8 @@
+---
+title: 'KNEL — Internal Price Book (Draft)'
+menu: 'KNEL — Internal Price Book (Draft)'
+---
+
 # KNEL — Internal Price Book (Draft)
 
 Intent

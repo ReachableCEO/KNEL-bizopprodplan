@@ -1,3 +1,8 @@
+---
+title: 'KNEL — Shared Services Proposal (Draft)'
+menu: 'KNEL — Shared Services Proposal (Draft)'
+---
+
 # KNEL — Shared Services Proposal (Draft)
 
 Purpose

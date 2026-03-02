@@ -1,3 +1,8 @@
+---
+title: 'KNEL — Shared Services Questions (STEP0)'
+menu: 'KNEL — Shared Services Questions (STEP0)'
+---
+
 # KNEL — Shared Services Questions (STEP0)
 
 Context (confirmed)

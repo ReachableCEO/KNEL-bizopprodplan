@@ -1,3 +1,8 @@
+---
+title: 'KNEL — Policy Drafts (STEP0)'
+menu: 'KNEL — Policy Drafts (STEP0)'
+---
+
 # KNEL — Policy Drafts (STEP0)
 
 Intercompany Recharge Policy (Draft)

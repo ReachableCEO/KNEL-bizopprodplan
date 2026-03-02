@@ -1,3 +1,8 @@
+---
+title: 'Known Element Enterprises (KNEL) - Business/Product/Operations Plan - Introduction'
+menu: 'Known Element Enterprises (KNEL) - Business/Product/Operations Plan - Introduction'
+---
+
 # Known Element Enterprises (KNEL) - Business/Product/Operations Plan - Introduction
 
 ## Executive Summary of Known Element Enterprises

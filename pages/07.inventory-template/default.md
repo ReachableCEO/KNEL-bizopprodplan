@@ -1,3 +1,8 @@
+---
+title: 'KNEL — Inventory Template (STEP0)'
+menu: 'KNEL — Inventory Template (STEP0)'
+---
+
 # KNEL — Inventory Template (STEP0)
 
 CSV headers (example)
